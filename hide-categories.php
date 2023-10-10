@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Hide Categories
  * Description: A simple plugin to hide specific categories and their posts for specific users.
- * Version: 1.3
+ * Version: 1.4
  * Author: Piero Meloni
  * Author URI:: https://www.subitoweb.it
  * Text Domain: Hide Categories
