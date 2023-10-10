@@ -79,6 +79,6 @@ Yes, you can specify the site ID in which the plugin should be active in the opt
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.3 =
 * Initial release.
 
